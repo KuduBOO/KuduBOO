@@ -1,6 +1,6 @@
 Kelly Duboise's SQL Profile! 
 
-Welcome to my SQL Portfolio! This code repository contains examples of SQL I've written. Feel free to look and reach out via email with any questions: 
+Welcome to my SQL Portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out via email with any questions: 
 kduboise22@gmail.com
 
 
